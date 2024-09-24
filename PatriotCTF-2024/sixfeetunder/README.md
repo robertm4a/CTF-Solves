@@ -11,7 +11,6 @@
 for example, Mr. John A. Smith would be PCTF{johnsmith}."
 
 
-
 ## Solution:
 *Not my proudest solve.*
 
