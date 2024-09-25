@@ -23,6 +23,6 @@ My first step was to do a google search for `american military college with only
 
 ## Conclusion:
 
-Whilst this definitely was not my proudest solve considering AI did 99% of the leg work, the do say use all the tools availible to you.
+Whilst this definitely was not my proudest solve considering AI did 99% of the leg work, the do say use all the tools available to you.
 
 Flag: `PCTF{markclark}`
