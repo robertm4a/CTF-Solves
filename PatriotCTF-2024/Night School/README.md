@@ -24,7 +24,7 @@ This lead me to my next search "GMU fairfax campus statue with 3 people". The fi
 
 ## Conclusion:
 
-Nothing to really say about this one, was pretty straightfoward.
+Nothing to really say about this one, was pretty straightforward.
 
 Flag: `pctf{COMMUNITAS}`
 
